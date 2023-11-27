@@ -1,0 +1,25 @@
+/* .centered {
+    text-align: center ;
+    vertical-align: middle ;
+} */
+/* index.css */
+
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+/* Estilos específicos para la tabla DataTable */
+.table {
+    width: 100%;
+}
+
+/* Estilos específicos para el gráfico Chart.js */
+#myChart {
+    max-width: 600px;
+    margin-top: 20px;
+}
